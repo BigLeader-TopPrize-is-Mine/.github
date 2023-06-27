@@ -1,0 +1,91 @@
+<h1 align="center">📑BigLeader 18조📑</h1>
+
+___  
+
+# 😎 Categories
+### Ⅰ. 진로 / 취준 / 개발관련 행사안내 및 활용자료
+- [Tech Interview Question for Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
+- [👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖](https://github.com/gyoogle/tech-interview-for-developer)
+- [Awesome-DevTeam](https://github.com/leehosung/awesome-devteam)
+- [Brave Tech Interview](https://github.com/brave-people/brave-tech-interview)
+- [취준에 도움되는 링크 : 컴공편](https://velog.io/@woo0_hooo/%EC%BB%B4%EA%B3%B5-%EC%B7%A8%EC%A4%80%EC%83%9D%EC%97%90%EA%B2%8C-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EB%A7%81%ED%81%AC%EB%93%A4-%EC%A0%95%EB%A6%AC?fbclid=IwAR339EMi0oyEgvOsWfGWRiZBYYDQj7WgivzZ4fD36g1VGSOvIencaqfsamM)
+- [개발자 행사모음 : Dev-Event](https://github.com/brave-people/Dev-Event)
+- [개발자를 위한 인프라 기초 총정리](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics/?fbclid=IwAR3H6ENf-MgmDkhHPTUHw523o02sv6wi--_HVwsbcfYtoj4h8rAY4ScERqA)
+- [개발자를 위한 트렌드 2021](https://velog.io/@wooder2050/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%ED%8A%B8%EB%A0%8C%EB%93%9C2021?fbclid=IwAR0eqcHztAwVj3HKq8u0w5hhCJHFz6bZenPrEY_bIcoAblBNFThfeTmzVnU)
+- [신입 개발자를 위한 핵심 어드바이스](https://velog.io/@hyounglee/for-newbies?fbclid=IwAR3lRLCgw4Ns49uVO5l84MsN7ax3cW-ALGE97yy_E2cABIqhXn6TL9IpLEk)
+- [우테코! 팀 프로젝트가 나한테 남긴것!](https://techblog.woowahan.com/5226/)  
+- [EO Youtube : 개발자 Talk 워키토키](https://www.youtube.com/watch?v=sSI9lKojEjc&list=PLB7PYmHaa-5ppOQ-7LyVYhyNyUhQtN12q)
+___ 
+### Ⅱ. 코딩 테스트 관련 자료
+- [이것이 코딩테스트다! 소스코드](https://github.com/ndb796/python-for-coding-test)
+- [WearSoft 코딩 테스트 기초자료](https://github.com/WeareSoft/tech-interview)
+- [쉽고 빠르게 점화식을 찾아보자!](https://oeis.org/)
+- [PS계의 나무위키! GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [개발과 영어를 동시에, StackOverflow](https://stackoverflow.com/)
+- [국내 코테 5대장, BOJ](https://www.acmicpc.net/)
+- [국내 코테 5대장, Programmers](https://programmers.co.kr/)
+- [국내 코테 5대장, SW Expert Academy](https://swexpertacademy.com/main/main.do)
+- [국내 코테 5대장, Leet Code](https://leetcode.com/)
+- [국내 코테 5대장, Code up](https://codeup.kr/)
+- [이진트리 잡기](https://www.youtube.com/watch?v=gG9EWb-JIQk)
+- [라이님 블로그](https://blog.naver.com/kks227/220769859177)
+- [박트리의 블로그](https://baactree.tistory.com/notice/16)
+- [Crocus 블로그](https://www.crocus.co.kr/341)
+___ 
+### Ⅲ. 프로젝트용 활용자료
+- [고퀄리티⚡개발 컨텐츠 모음](https://github.com/Integerous/goQuality-dev-contents)
+- [한국어 사용자를 위한 서비스에 사용하기 위한 오픈 API 모음](https://github.com/dl0312/open-apis-korea)
+- [Github으로 한방에 프로젝트 관리하기](https://github.com/cheese10yun/github-project-management)
+- [Code를 이쁘게 저장해보자 (1), Carbon](https://carbon.now.sh/)
+- [How to make Web Project](https://mishacreatrix.medium.com/design-a-website-from-scratch-in-7-steps-bf3e0ab1972)
+- [Window에 WSL2 적용하기](https://www.lesstif.com/software-architect/wsl-2-windows-subsystem-for-linux-2-71401661.html)
+- [유용한 생산성 Tool](https://velog.io/@chris/introducing-useful-productivity-tools)
+- [포트폴리오 제작을 위한 Starter Pack](https://velog.io/@couchcoding/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EC%A0%9C%EC%9E%91%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%9C%EC%9E%91%EC%8B%9C-%EB%8F%84%EC%9B%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EB%8F%84%EA%B5%AC%EB%93%A4-1)
+- [내 프로젝트에 알맞는 개발자 찾는법?](https://yozm.wishket.com/magazine/detail/1206/?fbclid=IwAR1lwy6QHULEalI6XZ42UlFQD3w0-VX5mvdRyiGuq8hQyaUArsZojiAtPi0)  
+- [왕초보를 위한 RESTful API사용법](https://velog.io/@couchcoding/%EA%B0%9C%EB%B0%9C-%EC%B4%88%EB%B3%B4%EB%A5%BC-%EC%9C%84%ED%95%9C-RESTful-API-%EC%84%A4%EA%B3%84-%EA%B0%80%EC%9D%B4%EB%93%9C?fbclid=IwAR0UwNlZOR3ymdFUEteKkrq_neFrGDKhESzAptIzgywzQSln-ho3SQdgqSA)
+- [Awesome Github Badge Link Demo Site](https://dev.to/envoy_/150-badges-for-github-pnk)
+- [Project Dir tree 생성기](https://woochanleee.github.io/project-tree-generator/)
+- [Public APIs](https://github.com/public-apis/public-apis)
+___ 
+### Ⅳ. VCS
+- [Github 활용 끝판왕 모음!!](https://github.com/cheese10yun/dev-info)
+- [VCS를 이용한 기본, 프로젝트 관리하기](https://uang.tistory.com/9?category=799977)
+- [개발자의 기초소양 #1 개인 깃헙 프로필 만들기!](https://zzsza.github.io/development/2020/07/10/make-github-profile-readme/)
+- [개발자의 기초소양 #1-2 Shield.io](https://shields.io/)
+- [Git초보자를 위한 git 강의:팀 단위 프로젝트](https://youtu.be/FmsshPRJotE)
+- [Git초보자를 위한 git 꿀팁: .gitignore 사용법](https://programming119.tistory.com/105)
+- [Learn Git Branching](https://learngitbranching.js.org/?locale=ko)
+- [센스있는 ReadMd : Markdown 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+- [센스있는 ReadMe : Boj 프로필 간지나게 표시하기](https://github.com/mazassumnida/mazassumnida)
+- [센스있는 ReadMe : github readme-stats](https://github.com/anuraghazra/github-readme-stats)
+- [센스있는 ReadMe : Capsule-render](https://github.com/kyechan99/capsule-render)
+- [센스있는 ReadMe : Daily Coding Timer](https://github.com/techinpark/productive-box)
+- [센스있는 ReadMe : Simple Icon](https://simpleicons.org/)
+- [센스폭발 ReadMe : README.so](https://readme.so/editor)
+- [online markdown Reader](https://dillinger.io/)
+- [Git Workflow Diagram](https://happygrammer.github.io/guide/git-workflow-diagram/?fbclid=IwAR0lhsmWxfWqcHNizGfvZNdVUoHjtqEYUuTrzWKWbb7zwsLEICAmFrJz1OE)
+- [2022~2023 Github Profile 꾸미기](https://soo-vely-dev.tistory.com/159)
+- [Github Template 이용하기](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC-%EA%B0%9C%EB%B0%9C%ED%8C%80-%EB%AA%A8%EB%91%90%EA%B0%80-%ED%96%89%EB%B3%B5%ED%95%9C-%EA%B0%9C%EB%B0%9C-pr%EA%B4%80%EB%A6%AC-%EB%B0%A9%EB%B2%95-7%EA%B0%80%EC%A7%80-1d4cd5d091f0)
+___ 
+### Ⅴ. 프로그래밍 언어/분야별 활용자료
+##### ⅰ. 공통
+- [Latest Dev Trend](https://app.daily.dev/)
+- [Help for Everybody](https://github.com/ljh0326/helpForEverybody)
+- [생활코딩 Youtube](https://www.youtube.com/channel/UCvc8kv-i5fvFTJBFAk6n1SA)
+- [코딩앙마 Youtube](https://www.youtube.com/channel/UCxft4RZ8lrK_BdPNz8NOP7Q)
+- [안경잡이 개발자 Youtube](https://www.youtube.com/channel/UChflhu32f5EUHlY7_SetNWw)
+- [대외활동/행사 : onoffmix](https://onoffmix.com/)
+- [CI/CD란 무엇인가?](https://youtu.be/0Emq5FypiMM)
+- [Docker란 무엇인가?](https://youtu.be/tPjpcsgxgWc)
+
+##### ⅱ. 머신러닝 & 데이터 분석
+- [Machine Learning study for Beginner](https://github.com/teddylee777/machine-learning)
+- [NDB's 딥러닝 논문 리뷰](https://github.com/ndb796/Deep-Learning-Paper-Review-and-Practice)
+- [Weekly NLP](https://jiho-ml.com/weekly-nlp-0/)
+- [Kaggle](https://www.kaggle.com/)
+- [AI Hub](https://aihub.or.kr/)
+- [Teachable Machine](https://teachablemachine.withgoogle.com/)
+- [인공지능 웹앱 만들기 wikidocs](https://wikidocs.net/book/4781)
+- [Online 수식 입력 플랫폼?!](https://statnmath.tistory.com/266)
+- [NLP를 위한 강의모음](https://charstring.tistory.com/459)
+- [colab과 github을 연동하는 방식](https://velog.io/@recoder/Colab%EA%B3%BC-Github-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)
